@@ -1,2 +1,2 @@
 # Resume-portfolio
- https://sujitcs.github.io/Resume-portfolio-2/
+ https://sujitcs.github.io/
